@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>347910688</PC-ID_id>
+        <PC-ID_version>2</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>DrugBank</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>DB10528</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>Egg white</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Albumen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Albumen extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Chicken egg white</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Egg white (chicken) allergenic extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Egg, white, raw, fresh</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Egg,white,raw,fresh</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Gallus gallus egg white</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DB10528</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://www.drugbank.ca</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>https://www.drugbank.ca/drugs/DB10528</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>DB10528</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>

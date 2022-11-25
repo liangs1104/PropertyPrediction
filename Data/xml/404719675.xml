@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>404719675</PC-ID_id>
+        <PC-ID_version>4</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>ChEMBL</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>CHEMBL4298060</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>Novasoy</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solgen 40</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Soy germ isoflavones</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Soy isoflavones</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Soya isoflavones</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Soybean isoflavones</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Soybean isoflavoues</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>CHEMBL4298060</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://www.ebi.ac.uk/chembl/</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>https://www.ebi.ac.uk/chembl/compound_report_card/CHEMBL4298060</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>CHEMBL4298060</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>

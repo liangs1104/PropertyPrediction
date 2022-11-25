@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>404771766</PC-ID_id>
+        <PC-ID_version>1</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>DrugBank</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>DB14311</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>Shea butter</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Butyrospermum Parkii (Shea) Butter</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Butyrospermum Parkii (Shea) Butter Extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Shea Tree Seed Fat</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Vitellaria Paradoxa Subsp. Paradoxa Nut Fat</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Vitellaria Paradoxa Subsp. Paradoxa Seed Fat</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DB14311</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://www.drugbank.ca</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>https://www.drugbank.ca/drugs/DB14311</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>DB14311</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>

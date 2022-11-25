@@ -1,0 +1,51 @@
+363896666
+  -OEChem-10012202532D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_SUBSTANCE_ID>
+363896666
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+1
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+22071
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+9001-01-8
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+Substance Name:
+KALLIKREIN
+CAS Registry Number:
+9001-01-8
+Chemical Classification Category:
+Amino acids and derivatives
+Taxonomic Name & Assay:
+In vivo mammalian, sperm morphology - other genotoxic effects
+GENETOX Record Number:
+2907
+Last Revision Date:
+19920602
+Update History:
+Field Update on 06/02/1992, 2 fields added/edited/deleted.
+Complete update on 01/30/1991, 4 fields added/edited/deleted.
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+9001-01-8
+KALLIKREIN
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+9001-01-8
+
+> <PUBCHEM_XREF_EXT_ID>
+9001-01-8
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://toxnet.nlm.nih.gov/newtoxnet/genetox.htm
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+genetox:@term+@DOCNO+2907
+
+$$$$

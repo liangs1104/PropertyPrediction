@@ -1,0 +1,38 @@
+347910688
+  -OEChem-10012202532D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_SUBSTANCE_ID>
+347910688
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+2
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+DrugBank
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+DB10528
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+Egg white
+Albumen
+Albumen extract
+Chicken egg white
+Egg white (chicken) allergenic extract
+Egg, white, raw, fresh
+Egg,white,raw,fresh
+Gallus gallus egg white
+DB10528
+
+> <PUBCHEM_XREF_EXT_ID>
+DB10528
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://www.drugbank.ca
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://www.drugbank.ca/drugs/DB10528
+
+$$$$

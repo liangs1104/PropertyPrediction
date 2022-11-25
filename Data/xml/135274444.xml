@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>135274444</PC-ID_id>
+        <PC-ID_version>7</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>ChemIDplus</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>0008001216</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>3W1JG795YI</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>8001-21-6</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Helianthus annua injection</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower pollen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Extract of sunflower</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Extract of sunflower seeds</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Helianthus annuus extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Oils, sunflower seed</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower seed extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower seed oil</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower oil</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower seed oil [Oil, edible]</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>EINECS 232-273-9</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Oleum helianthi</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Solvent sunflower oil</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower seed</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Helianthus annuus</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Helianthus annuus pollen</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Sunflower (Helianthus annuus) seed oil</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>UNII-3W1JG795YI</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_comment>
+      <PC-Substance_comment_E>[Related Registry Number] 69669-39-2 (potassium-salt)</PC-Substance_comment_E>
+      <PC-Substance_comment_E>TSCA UVCB</PC-Substance_comment_E>
+      <PC-Substance_comment_E>[Other Registry Number] 84776-03-4</PC-Substance_comment_E>
+      <PC-Substance_comment_E>[Other Registry Number] 68309-82-0</PC-Substance_comment_E>
+      <PC-Substance_comment_E>3W1JG795YI</PC-Substance_comment_E>
+      <PC-Substance_comment_E>0008001216</PC-Substance_comment_E>
+    </PC-Substance_comment>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://chem.nlm.nih.gov/chemidplus/</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_rn>8001-21-6</PC-XRefData_rn>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>https://chem.nlm.nih.gov/chemidplus/id/0008001216</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>0008001216</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>

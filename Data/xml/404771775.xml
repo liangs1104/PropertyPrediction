@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>404771775</PC-ID_id>
+        <PC-ID_version>1</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>DrugBank</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>DB14320</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>Eucalyptus globulus leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Australian Fever Tree Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Blue Gum Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Bluegum Eucalyptus Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalypti Folium</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalypti Folium (Eucalyptus Globulus Labill.)</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalyptus Extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalyptus Globulus</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalyptus Globulus Leaf Extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalyptus Globulus Leaf Powder</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalyptus Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Eucalyptus Leaf (Eucalyptus Globulus Labill.)</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Southern Blue Gum Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Tasmanian Blue Gum Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Tasmanian Bluegum Leaf</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DB14320</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://www.drugbank.ca</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>https://www.drugbank.ca/drugs/DB14320</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>DB14320</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>

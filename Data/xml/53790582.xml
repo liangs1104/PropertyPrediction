@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>53790582</PC-ID_id>
+        <PC-ID_version>44</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>Comparative Toxicogenomics Database</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>D006025</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>Glycosaminoglycans</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Mucopolysaccharides</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Glycosaminoglycan</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>D006025</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_comment>
+      <PC-Substance_comment_E>The Comparative Toxicogenomics Database (CTD) promotes understanding about the effects of environmental chemicals</PC-Substance_comment_E>
+      <PC-Substance_comment_E>on human health by curating chemical-gene/protein interactions and chemical- and gene-disease relationships from</PC-Substance_comment_E>
+      <PC-Substance_comment_E>the literature.  Click on these links to find specific, curated data for this chemical at CTD:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Genes and Proteins http://ctdbase.org/detail.go?view=gene&amp;type=chem&amp;acc=D006025</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Chemical-Gene Interactions http://ctdbase.org/detail.go?view=ixn&amp;type=chem&amp;acc=D006025</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Diseases http://ctdbase.org/detail.go?view=disease&amp;type=chem&amp;acc=D006025</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Pathways http://ctdbase.org/detail.go?view=pathway&amp;type=chem&amp;acc=D006025</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Depositor-supplied synonyms are taken from MeSH (Medical Subject Headings).</PC-Substance_comment_E>
+    </PC-Substance_comment>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>http://ctdbase.org/</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>http://ctdbase.org/detail.go?type=chem&amp;acc=D006025</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_gene>281161</PC-XRefData_gene>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_gene>7124</PC-XRefData_gene>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_gene>24596</PC-XRefData_gene>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_gene>3553</PC-XRefData_gene>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_gene>3425</PC-XRefData_gene>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_gene>3162</PC-XRefData_gene>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_mim>608446</PC-XRefData_mim>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_mim>608557</PC-XRefData_mim>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>11159948</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>12361835</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>20807638</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>23257246</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>18200630</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>19728169</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>15680337</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_pmid>12659634</PC-XRefData_pmid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_taxonomy>9913</PC-XRefData_taxonomy>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_taxonomy>9606</PC-XRefData_taxonomy>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_taxonomy>10116</PC-XRefData_taxonomy>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>D006025</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+    <PC-Substance_compound>
+      <PC-Compounds>
+        <PC-Compound>
+          <PC-Compound_id>
+            <PC-CompoundType>
+              <PC-CompoundType_type value="deposited">0</PC-CompoundType_type>
+            </PC-CompoundType>
+          </PC-Compound_id>
+          <PC-Compound_props>
+            <PC-InfoData>
+              <PC-InfoData_urn>
+                <PC-Urn>
+                  <PC-Urn_label>AutoGenerated</PC-Urn_label>
+                  <PC-Urn_name>Structure</PC-Urn_name>
+                  <PC-Urn_datatype>
+                    <PC-UrnDataType value="string">1</PC-UrnDataType>
+                  </PC-Urn_datatype>
+                  <PC-Urn_version>2.2</PC-Urn_version>
+                  <PC-Urn_software>PubChem</PC-Urn_software>
+                  <PC-Urn_source>ncbi.nlm.nih.gov</PC-Urn_source>
+                  <PC-Urn_release>2021.10.14</PC-Urn_release>
+                </PC-Urn>
+              </PC-InfoData_urn>
+              <PC-InfoData_value>
+                <PC-InfoData_value_sval>Deposited Substance is allowed to be autogenerated</PC-InfoData_value_sval>
+              </PC-InfoData_value>
+            </PC-InfoData>
+          </PC-Compound_props>
+        </PC-Compound>
+      </PC-Compounds>
+    </PC-Substance_compound>
+  </PC-Substance>
+</PC-Substances>

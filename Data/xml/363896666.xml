@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>363896666</PC-ID_id>
+        <PC-ID_version>1</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>22071</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>9001-01-8</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>9001-01-8</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>KALLIKREIN</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_comment>
+      <PC-Substance_comment_E>Substance Name:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>KALLIKREIN</PC-Substance_comment_E>
+      <PC-Substance_comment_E>CAS Registry Number:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>9001-01-8</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Chemical Classification Category:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Amino acids and derivatives</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Taxonomic Name &amp; Assay:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>In vivo mammalian, sperm morphology - other genotoxic effects</PC-Substance_comment_E>
+      <PC-Substance_comment_E>GENETOX Record Number:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>2907</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Last Revision Date:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>19920602</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Update History:</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Field Update on 06/02/1992, 2 fields added/edited/deleted.</PC-Substance_comment_E>
+      <PC-Substance_comment_E>Complete update on 01/30/1991, 4 fields added/edited/deleted.</PC-Substance_comment_E>
+    </PC-Substance_comment>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_regid>9001-01-8</PC-XRefData_regid>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_rn>9001-01-8</PC-XRefData_rn>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://toxnet.nlm.nih.gov/newtoxnet/genetox.htm</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/r?dbs+genetox:@term+@DOCNO+2907</PC-XRefData_sburl>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>

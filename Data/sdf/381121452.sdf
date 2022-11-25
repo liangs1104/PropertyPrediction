@@ -1,0 +1,44 @@
+381121452
+  -OEChem-10012202522D
+
+  0  0  0     0  0  0  0  0  0999 V2000
+M  END
+> <PUBCHEM_SUBSTANCE_ID>
+381121452
+
+> <PUBCHEM_SUBSTANCE_VERSION>
+3
+
+> <PUBCHEM_EXT_DATASOURCE_NAME>
+ChemIDplus
+
+> <PUBCHEM_EXT_DATASOURCE_REGID>
+0009074833
+
+> <PUBCHEM_SUBSTANCE_COMMENT>
+0009074833
+
+> <PUBCHEM_SUBSTANCE_SYNONYM>
+9074-83-3
+Glutamyl Aminopeptidase
+Aminopeptidase A
+Aminopeptidase, Aspartate
+Aminopeptidase, Aspartyl
+Aminopeptidase, Glutamyl
+Angiotensinase A
+Aspartate Aminopeptidase
+Aspartyl Aminopeptidase
+
+> <PUBCHEM_GENERIC_REGISTRY_NAME>
+9074-83-3
+
+> <PUBCHEM_XREF_EXT_ID>
+0009074833
+
+> <PUBCHEM_EXT_DATASOURCE_URL>
+https://chem.nlm.nih.gov/chemidplus/
+
+> <PUBCHEM_EXT_SUBSTANCE_URL>
+https://chem.nlm.nih.gov/chemidplus/id/0009074833
+
+$$$$

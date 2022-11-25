@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<PC-Substances
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem.xsd"
+>
+  <PC-Substance>
+    <PC-Substance_sid>
+      <PC-ID>
+        <PC-ID_id>404771782</PC-ID_id>
+        <PC-ID_version>1</PC-ID_version>
+      </PC-ID>
+    </PC-Substance_sid>
+    <PC-Substance_source>
+      <PC-Source>
+        <PC-Source_db>
+          <PC-DBTracking>
+            <PC-DBTracking_name>DrugBank</PC-DBTracking_name>
+            <PC-DBTracking_source-id>
+              <Object-id>
+                <Object-id_str>DB14327</Object-id_str>
+              </Object-id>
+            </PC-DBTracking_source-id>
+          </PC-DBTracking>
+        </PC-Source_db>
+      </PC-Source>
+    </PC-Substance_source>
+    <PC-Substance_synonyms>
+      <PC-Substance_synonyms_E>Purslane</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Horse&apos;s Teeth Amaranth</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Ma Chi Xian</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Machixian</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulaca Neglecta Top</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulaca Oleracea Extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulaca Oleracea Flower/leaf/stem Extract</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulaca Oleracea Flowering Top</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulaca Oleracea Top</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulaca Retusa Top</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Portulacae Herba</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Purslane Herb</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Purslane, Raw</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Purslane,raw</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>Wild Portulaca Top</PC-Substance_synonyms_E>
+      <PC-Substance_synonyms_E>DB14327</PC-Substance_synonyms_E>
+    </PC-Substance_synonyms>
+    <PC-Substance_xref>
+      <PC-XRefData>
+        <PC-XRefData_dburl>https://www.drugbank.ca</PC-XRefData_dburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_sburl>https://www.drugbank.ca/drugs/DB14327</PC-XRefData_sburl>
+      </PC-XRefData>
+      <PC-XRefData>
+        <PC-XRefData_regid>DB14327</PC-XRefData_regid>
+      </PC-XRefData>
+    </PC-Substance_xref>
+  </PC-Substance>
+</PC-Substances>
